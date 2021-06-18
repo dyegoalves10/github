@@ -8,3 +8,4 @@ Os dados que estamos buscando são os seguintes:
 3º - Identificar/Levantar os Pull Request de cada repositório, e para cada Pull Request: a data que ele iniciou e quem foram os participantes;
 
 4º - Identificar a data em que cada participante se vinculou ao repositório.
+
